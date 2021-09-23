@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+007
+chown o+007

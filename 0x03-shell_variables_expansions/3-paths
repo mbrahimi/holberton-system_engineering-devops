@@ -1,2 +1,2 @@
-#!bin/bashfind
-$PATH | wc -l
+#!bin/bash
+find $PATH | wc -l
